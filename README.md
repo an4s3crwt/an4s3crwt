@@ -1,6 +1,7 @@
 <div style="text-align: center;">
-  <img src="https://64.media.tumblr.com/efe4bea49b44c9bbebfba3ee98d00291/466886a048f63c60-35/s100x200/7bea2268183d8223306e4c61fd56b6dcd9be3f5a.gif">
+  <img src="https://64.media.tumblr.com/5d8a2ea08dec57d40bf33e9ed402d758/f2ecde4a8441d6d3-51/s100x200/81ffd07d13acf1aff60feb876c38c389cad9d9f2.gif" alt="Header Image" style="width: 80%; max-width: 100%; height: auto;">
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=an4s3crwt&show_icons=true&hide_title=true&theme=graywhite" alt="GitHub Stats" height="150" />
