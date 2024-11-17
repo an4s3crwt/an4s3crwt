@@ -1,4 +1,7 @@
-![Header Image](https://64.media.tumblr.com/1ba2ec12ca9fee5359fc6299a842f635/d5cbf7ff18eaf222-da/s640x960/91859d222e2503d6b6230cdbdba203aa47aca478.gif)
+<div align="center">
+  <img src="https://64.media.tumblr.com/1ba2ec12ca9fee5359fc6299a842f635/d5cbf7ff18eaf222-da/s640x960/91859d222e2503d6b6230cdbdba203aa47aca478.gif" alt="Header Image">
+</div>
+
 
 
 <div align="center">
