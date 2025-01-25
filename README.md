@@ -7,7 +7,3 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an4s3crwt&show_icons=true&hide_title=true&theme=graywhite" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an4s3crwt&layout=compact&theme=graywhite" alt="Top Languages" height="150" />
-</div>
