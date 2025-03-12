@@ -1,5 +1,5 @@
 
-[![Stalker](https://img.youtube.com/vi/N9i3V-rz81c/0.jpg)](https://youtu.be/N9i3V-rz81c?si=u2jMs-HwdNZR1blX)
+[![Stalker](https://i.pinimg.com/originals/b8/b8/b1/b8b8b14176db8594ebe2438ee42798ec.gif)
 
 
 
