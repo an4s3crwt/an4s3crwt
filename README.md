@@ -1,1 +1,1 @@
-[Watch the GIF](https://64.media.tumblr.com/876dcce8674652dc6e564312f49109b7/c1ce30391d7a406a-1f/s500x750/36c6a9fda08a2c9011cdf0d5f42f29bdfe7e30fe.gifv)
+[! GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAwdTN0cHZ2dGJzZWtpODQ4NjNwYnduNTJydW8yb2kyZXphZDIyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t9liWvFu3C9U9MM4Sm/giphy.gif)
