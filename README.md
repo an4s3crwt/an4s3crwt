@@ -1,2 +1,1 @@
-![GIF](https://imgur.com/loxCQZn)
-
+![GIF](https://i.imgur.com/loxCQZn.gif)
